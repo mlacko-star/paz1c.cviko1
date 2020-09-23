@@ -4,7 +4,8 @@ public class javap {
 
 	
 	public static void main(String[] huh) {
-		System.out.println("mlakco");
+		System.out.println("cement");
+		System.out.println("voda");
 	}
 	
 }
